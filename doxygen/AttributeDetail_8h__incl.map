@@ -1,0 +1,18 @@
+<map id="lib/IR/AttributeDetail.h" name="lib/IR/AttributeDetail.h">
+<area shape="rect" id="node2" href="$IR_2AffineMap_8h.html" title="mlir/IR/AffineMap.h" alt="" coords="277,379,412,405"/>
+<area shape="rect" id="node10" href="$Attributes_8h.html" title="mlir/IR/Attributes.h" alt="" coords="1901,80,2033,107"/>
+<area shape="rect" id="node12" href="$MLIRContext_8h.html" title="mlir/IR/MLIRContext.h" alt="" coords="1725,304,1879,331"/>
+<area shape="rect" id="node25" href="$StorageUniquer_8h.html" title="mlir/Support/StorageUniquer.h" alt="" coords="1097,379,1294,405"/>
+<area shape="rect" id="node32" href="$Identifier_8h.html" title="mlir/IR/Identifier.h" alt="" coords="488,453,615,480"/>
+<area shape="rect" id="node34" href="$IntegerSet_8h.html" title="mlir/IR/IntegerSet.h" alt="" coords="117,379,253,405"/>
+<area shape="rect" id="node35" href="$IR_2StandardTypes_8h.html" title="mlir/IR/StandardTypes.h" alt="" coords="807,80,971,107"/>
+<area shape="rect" id="node3" href="$AffineExpr_8h.html" title="mlir/IR/AffineExpr.h" alt="" coords="5,453,143,480"/>
+<area shape="rect" id="node4" href="$LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="667,535,809,562"/>
+<area shape="rect" id="node11" href="$AttributeSupport_8h.html" title="mlir/IR/AttributeSupport.h" alt="" coords="1682,155,1853,181"/>
+<area shape="rect" id="node18" href="$StorageUniquerSupport_8h.html" title="mlir/IR/StorageUniquerSupport.h" alt="" coords="1281,304,1491,331"/>
+<area shape="rect" id="node13" href="$TypeID_8h.html" title="mlir/Support/TypeID.h" alt="" coords="1313,453,1464,480"/>
+<area shape="rect" id="node19" href="$InterfaceSupport_8h.html" title="mlir/Support/InterfaceSupport.h" alt="" coords="1474,379,1677,405"/>
+<area shape="rect" id="node23" href="$LogicalResult_8h.html" title="mlir/Support/LogicalResult.h" alt="" coords="1102,453,1289,480"/>
+<area shape="rect" id="node36" href="$Types_8h.html" title="mlir/IR/Types.h" alt="" coords="647,155,759,181"/>
+<area shape="rect" id="node37" href="$TypeSupport_8h.html" title="mlir/IR/TypeSupport.h" alt="" coords="1311,229,1461,256"/>
+</map>

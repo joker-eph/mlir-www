@@ -1,0 +1,12 @@
+<map id="include/mlir/Dialect/Affine/Passes.h" name="include/mlir/Dialect/Affine/Passes.h">
+<area shape="rect" id="node2" href="$InitAllPasses_8h.html" title="include/mlir/InitAllPasses.h" alt="" coords="5,109,185,136"/>
+<area shape="rect" id="node3" href="$AffineDataCopyGeneration_8cpp.html" title="lib/Dialect/Affine\l/Transforms/AffineDataCopy\lGeneration.cpp" alt="" coords="210,95,399,151"/>
+<area shape="rect" id="node4" href="$AffineLoopInvariantCodeMotion_8cpp.html" title="lib/Dialect/Affine\l/Transforms/AffineLoopInvariant\lCodeMotion.cpp" alt="" coords="423,95,631,151"/>
+<area shape="rect" id="node5" href="$AffineParallelize_8cpp.html" title="lib/Dialect/Affine\l/Transforms/AffineParallelize.cpp" alt="" coords="656,102,871,143"/>
+<area shape="rect" id="node6" href="$AffineParallelNormalize_8cpp.html" title="lib/Dialect/Affine\l/Transforms/AffineParallel\lNormalize.cpp" alt="" coords="895,95,1069,151"/>
+<area shape="rect" id="node7" href="$LoopTiling_8cpp.html" title="lib/Dialect/Affine\l/Transforms/LoopTiling.cpp" alt="" coords="1093,102,1273,143"/>
+<area shape="rect" id="node8" href="$LoopUnroll_8cpp.html" title="lib/Dialect/Affine\l/Transforms/LoopUnroll.cpp" alt="" coords="1297,102,1480,143"/>
+<area shape="rect" id="node9" href="$LoopUnrollAndJam_8cpp.html" title="lib/Dialect/Affine\l/Transforms/LoopUnrollAndJam.cpp" alt="" coords="1504,102,1735,143"/>
+<area shape="rect" id="node10" href="$SimplifyAffineStructures_8cpp.html" title="lib/Dialect/Affine\l/Transforms/SimplifyAffine\lStructures.cpp" alt="" coords="1759,95,1936,151"/>
+<area shape="rect" id="node11" href="$SuperVectorize_8cpp.html" title="lib/Dialect/Affine\l/Transforms/SuperVectorize.cpp" alt="" coords="1961,102,2171,143"/>
+</map>

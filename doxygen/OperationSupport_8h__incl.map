@@ -1,0 +1,18 @@
+<map id="include/mlir/IR/OperationSupport.h" name="include/mlir/IR/OperationSupport.h">
+<area shape="rect" id="node2" href="$Attributes_8h.html" title="mlir/IR/Attributes.h" alt="" coords="633,393,765,420"/>
+<area shape="rect" id="node15" href="$InterfaceSupport_8h.html" title="mlir/Support/InterfaceSupport.h" alt="" coords="1201,617,1404,644"/>
+<area shape="rect" id="node28" href="$Identifier_8h.html" title="mlir/IR/Identifier.h" alt="" coords="1737,692,1863,719"/>
+<area shape="rect" id="node30" href="$Location_8h.html" title="mlir/IR/Location.h" alt="" coords="1077,319,1203,345"/>
+<area shape="rect" id="node31" href="$TypeRange_8h.html" title="mlir/IR/TypeRange.h" alt="" coords="1341,95,1483,121"/>
+<area shape="rect" id="node32" href="$Types_8h.html" title="mlir/IR/Types.h" alt="" coords="1367,393,1479,420"/>
+<area shape="rect" id="node35" href="$Value_8h.html" title="mlir/IR/Value.h" alt="" coords="955,169,1064,196"/>
+<area shape="rect" id="node3" href="$AttributeSupport_8h.html" title="mlir/IR/AttributeSupport.h" alt="" coords="840,468,1011,495"/>
+<area shape="rect" id="node4" href="$MLIRContext_8h.html" title="mlir/IR/MLIRContext.h" alt="" coords="1048,543,1203,569"/>
+<area shape="rect" id="node14" href="$StorageUniquerSupport_8h.html" title="mlir/IR/StorageUniquerSupport.h" alt="" coords="813,543,1024,569"/>
+<area shape="rect" id="node5" href="$LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="479,774,620,801"/>
+<area shape="rect" id="node8" href="$TypeID_8h.html" title="mlir/Support/TypeID.h" alt="" coords="819,692,970,719"/>
+<area shape="rect" id="node19" href="$LogicalResult_8h.html" title="mlir/Support/LogicalResult.h" alt="" coords="44,692,231,719"/>
+<area shape="rect" id="node21" href="$StorageUniquer_8h.html" title="mlir/Support/StorageUniquer.h" alt="" coords="423,617,620,644"/>
+<area shape="rect" id="node33" href="$TypeSupport_8h.html" title="mlir/IR/TypeSupport.h" alt="" coords="1050,468,1201,495"/>
+<area shape="rect" id="node36" href="$UseDefLists_8h.html" title="mlir/IR/UseDefLists.h" alt="" coords="913,244,1063,271"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="lib/Conversion/StandardToSPIRV/ConvertStandardToSPIRV.cpp" name="lib/Conversion/StandardToSPIRV/ConvertStandardToSPIRV.cpp">
+<area shape="rect" id="node2" href="$LayoutUtils_8h.html" title="mlir/Dialect/SPIRV\l/LayoutUtils.h" alt="" coords="151,95,285,136"/>
+<area shape="rect" id="node4" href="$SPIRVDialect_8h.html" title="mlir/Dialect/SPIRV\l/SPIRVDialect.h" alt="" coords="37,273,170,315"/>
+<area shape="rect" id="node18" href="$SPIRVLowering_8h.html" title="mlir/Dialect/SPIRV\l/SPIRVLowering.h" alt="" coords="591,95,725,136"/>
+<area shape="rect" id="node29" href="$LogicalResult_8h.html" title="mlir/Support/LogicalResult.h" alt="" coords="705,281,891,307"/>
+<area shape="rect" id="node31" href="$SPIRVOps_8h.html" title="mlir/Dialect/SPIRV\l/SPIRVOps.h" alt="" coords="1457,273,1590,315"/>
+<area shape="rect" id="node39" href="$Ops_8h.html" title="mlir/Dialect/StandardOps\l/IR/Ops.h" alt="" coords="2449,273,2617,315"/>
+<area shape="rect" id="node43" href="$IR_2AffineMap_8h.html" title="mlir/IR/AffineMap.h" alt="" coords="1397,459,1532,486"/>
+<area shape="rect" id="node5" href="$IR_2Dialect_8h.html" title="mlir/IR/Dialect.h" alt="" coords="562,370,679,397"/>
+<area shape="rect" id="node6" href="$OperationSupport_8h.html" title="mlir/IR/OperationSupport.h" alt="" coords="736,459,913,486"/>
+<area shape="rect" id="node14" href="$TypeID_8h.html" title="mlir/Support/TypeID.h" alt="" coords="613,541,764,568"/>
+<area shape="rect" id="node7" href="$Attributes_8h.html" title="mlir/IR/Attributes.h" alt="" coords="892,616,1024,643"/>
+<area shape="rect" id="node9" href="$Location_8h.html" title="mlir/IR/Location.h" alt="" coords="1026,541,1151,568"/>
+<area shape="rect" id="node10" href="$Types_8h.html" title="mlir/IR/Types.h" alt="" coords="1606,541,1718,568"/>
+<area shape="rect" id="node11" href="$TypeSupport_8h.html" title="mlir/IR/TypeSupport.h" alt="" coords="1472,616,1623,643"/>
+<area shape="rect" id="node15" href="$LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="454,616,595,643"/>
+<area shape="rect" id="node19" href="$SPIRVAttributes_8h.html" title="mlir/Dialect/SPIRV\l/SPIRVAttributes.h" alt="" coords="299,273,433,315"/>
+<area shape="rect" id="node20" href="$SPIRVTypes_8h.html" title="mlir/Dialect/SPIRV\l/SPIRVTypes.h" alt="" coords="919,363,1053,404"/>
+<area shape="rect" id="node26" href="$TargetAndABI_8h.html" title="mlir/Dialect/SPIRV\l/TargetAndABI.h" alt="" coords="410,184,543,225"/>
+<area shape="rect" id="node28" href="$DialectConversion_8h.html" title="mlir/Transforms/DialectConversion.h" alt="" coords="618,191,853,218"/>
+<area shape="rect" id="node21" href="$Diagnostics_8h.html" title="mlir/IR/Diagnostics.h" alt="" coords="1228,459,1373,486"/>
+<area shape="rect" id="node22" href="$IR_2StandardTypes_8h.html" title="mlir/IR/StandardTypes.h" alt="" coords="1867,459,2031,486"/>
+<area shape="rect" id="node32" href="$Function_8h.html" title="mlir/IR/Function.h" alt="" coords="2368,370,2495,397"/>
+<area shape="rect" id="node34" href="$ControlFlowInterfaces_8h.html" title="mlir/Interfaces/ControlFlow\lInterfaces.h" alt="" coords="1629,363,1807,404"/>
+<area shape="rect" id="node35" href="$SideEffectInterfaces_8h.html" title="mlir/Interfaces/SideEffect\lInterfaces.h" alt="" coords="1831,363,2002,404"/>
+<area shape="rect" id="node33" href="$CallInterfaces_8h.html" title="mlir/Interfaces/CallInterfaces.h" alt="" coords="2428,459,2629,486"/>
+<area shape="rect" id="node40" href="$IR_2Builders_8h.html" title="mlir/IR/Builders.h" alt="" coords="2570,370,2693,397"/>
+<area shape="rect" id="node41" href="$OpImplementation_8h.html" title="mlir/IR/OpImplementation.h" alt="" coords="2717,370,2900,397"/>
+<area shape="rect" id="node42" href="$VectorInterfaces_8h.html" title="mlir/Interfaces/VectorInterfaces.h" alt="" coords="2026,370,2242,397"/>
+<area shape="rect" id="node45" href="$ViewLikeInterface_8h.html" title="mlir/Interfaces/ViewLike\lInterface.h" alt="" coords="2925,363,3087,404"/>
+<area shape="rect" id="node44" href="$AffineExpr_8h.html" title="mlir/IR/AffineExpr.h" alt="" coords="1289,541,1427,568"/>
+</map>

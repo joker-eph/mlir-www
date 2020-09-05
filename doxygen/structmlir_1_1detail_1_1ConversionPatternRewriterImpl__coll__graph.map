@@ -1,0 +1,16 @@
+<map id="mlir::detail::ConversionPatternRewriterImpl" name="mlir::detail::ConversionPatternRewriterImpl">
+<area shape="rect" id="node3" title="This class provides a simple interface for converting the types of block arguments. " alt="" coords="1206,80,1374,107"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l OperationTransactionState, 4 \&gt;" alt="" coords="583,123,791,165"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l T, N \&gt;" alt="" coords="5,237,139,278"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l mlir::BlockArgument, 4 \&gt;" alt="" coords="987,175,1157,217"/>
+<area shape="rect" id="node11" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l unsigned, 4 \&gt;" alt="" coords="620,237,753,278"/>
+<area shape="rect" id="node12" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l BlockAction, 4 \&gt;" alt="" coords="1005,289,1139,330"/>
+<area shape="rect" id="node19" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l mlir::OperationName, 2 \&gt;" alt="" coords="385,358,559,399"/>
+<area shape="rect" id="node9" title="This class wraps a BlockAndValueMapping to provide recursive lookup functionality, i.e. " alt="" coords="1219,572,1361,599"/>
+<area shape="rect" id="node10" href="$classmlir_1_1TypeConverter.html" title="Type conversion class. " alt="" coords="815,416,953,443"/>
+<area shape="rect" id="node16" href="$classmlir_1_1ConversionPattern.html" title="Base class for the conversion patterns. " alt="" coords="1211,357,1369,384"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SmallPtrSet.html" title="llvm::SmallPtrSet\&lt;\l mlir::Operation *, 1 \&gt;" alt="" coords="1217,674,1363,715"/>
+<area shape="rect" id="node15" href="$classllvm_1_1SmallPtrSet.html" title="llvm::SmallPtrSet\&lt;\l T, N \&gt;" alt="" coords="818,674,950,715"/>
+<area shape="rect" id="node17" href="$classmlir_1_1RewritePattern.html" title="RewritePattern is the common base class for all DAG to DAG replacements. " alt="" coords="815,365,953,392"/>
+<area shape="rect" id="node18" href="$classmlir_1_1Pattern.html" title="Instances of Pattern can be matched against SSA IR. " alt="" coords="425,424,519,451"/>
+</map>
